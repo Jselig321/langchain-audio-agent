@@ -1,4 +1,4 @@
-#LangChain Audio Agent
+# LangChain Audio Agent
 
 AI agent that transcribes and summarizes audio using LangChain, AssemblyAI, and OpenAI.
 
@@ -8,10 +8,10 @@ Automatic summarization
 LLM-powered analysis
 Modular config system
 
-Dem0
+Demo
 
 
-#Tools used
+# Tools used
 
 Python
 
@@ -21,7 +21,7 @@ AssemblyAI
 
 OpenAI API
 
-##Notes
+# Notes
 
 constant.py is ignored by Git to protect information.
 Use constant_example.py as a template.
