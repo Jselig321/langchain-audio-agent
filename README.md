@@ -8,9 +8,9 @@ Automatic summarization
 LLM-powered analysis
 Modular config system
 
-# Demo
+# Demo ScreenShots
 
-<img width="774" height="817" alt="Screenshot 2026-02-07 at 2 44 49 PM" src="https://github.com/user-attachments/assets/650310f7-92d6-456a-91be-1910c1ccdd7d" />
+<img width="500" height="500" alt="Screenshot 2026-02-07 at 2 44 49 PM" src="https://github.com/user-attachments/assets/650310f7-92d6-456a-91be-1910c1ccdd7d" />
 
 
 <img width="769" height="620" alt="Screenshot 2026-02-07 at 2 46 24 PM" src="https://github.com/user-attachments/assets/605b1f4e-f215-4b36-892f-c30b9f141b67" />
