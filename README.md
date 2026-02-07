@@ -1,4 +1,4 @@
-##LangChain Audio Agent
+##LangChain Audio Agent##
 
 AI agent that transcribes and summarizes audio using LangChain, AssemblyAI, and OpenAI.
 
@@ -11,7 +11,8 @@ Modular config system
 Dem0
 
 
-##Tools used: 
+##Tools used##
+
 Python
 
 LangChain
