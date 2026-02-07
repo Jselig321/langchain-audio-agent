@@ -24,4 +24,5 @@ OpenAI API
 # Notes
 
 constant.py is ignored by Git to protect information.
+
 Use constant_example.py as a template.
